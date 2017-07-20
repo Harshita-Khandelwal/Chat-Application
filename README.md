@@ -1,6 +1,6 @@
 # Chat-Application
 A desktop chat application supporting modern time features like last seen and multiple users. It is developed in java swing using socket programming, multi-threading and event listeners. 
-Database used is MySQL.
+Database used is MySQL. Database connectivity is done using JDBC 
 
 Working:
 1. ServerGui class establishes a server through which multiple clients can connect using sockets.Each client is connected to the   server.
